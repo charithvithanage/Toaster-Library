@@ -28,6 +28,10 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.TextView;
 
+import com.example.toasterlibrary.R;
+import com.example.toasterlibrary.infiniteviewpager.InfinitePagerAdapter;
+import com.example.toasterlibrary.infiniteviewpager.InfiniteViewPager;
+
 import java.lang.reflect.Field;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
